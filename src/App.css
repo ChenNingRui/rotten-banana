@@ -31,3 +31,20 @@
     transform: rotate(360deg);
   }
 }
+
+.titleBar {
+  background-color: #020202;
+  display: "block";
+  color: #ffffff;
+  padding-left: 16px;
+  width: 100%;
+}
+
+.searchBar {
+  font-size: 30;
+  width: 93%;
+  padding-top: 8;
+  padding-bottom: 8;
+  padding-left: 20;
+  display: "block";
+}
